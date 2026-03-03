@@ -1,6 +1,5 @@
-## Hi there 👋
-## - 👋 Hi, I’m Jessica Chammas
-## - 🌱 I’m currently a fourth year CS student @ San Diego State University ...
+## Hi there 
+## - Hi, I’m Jessica Chammas
 ## - 📫 LinkedIn: https://www.linkedin.com/in/jessica-chammas-b780501b2/
 ## - 📫 Mail: jessica.chammasm@gmail.com 
 <!--
